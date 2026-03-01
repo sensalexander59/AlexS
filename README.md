@@ -1,15 +1,11 @@
-# ¡Hola! 👋 Soy AlexS
+Hi! 👋 I'm AlexS
+I'm a Computer Engineering student in Paraguay, curious, creative, and always ready to learn new things.
 
-Soy estudiante de Ingeniería Informática en Paraguay, curioso, creativo y siempre listo para aprender cosas nuevas.  
+About me
+💻 I love programming and putting what I learn into practice.
 
----
+🏎 I'm a Formula 1 fan and passionate about everything related to engineering.
 
-## Sobre mí
-
-- 💻 Me encanta programar y hacer cosas con lo que voy aprendiendo.
-- 🏎 Fanático de la Fórmula 1 y de todo lo relacionado con ingeniería.
-- 👓 Apendiendo Lenguajes: C++, Python
-- 🔨 Herramientas: Git, GitHub, Visual Studio, VS Code
-- 🎭 Intereses: Inteligencia Artificial, desarrollo web, sistemas
-
----
+👓 Currently learning languages: C++, Python
+🔨 Tools: Git, GitHub, Visual Studio, VS Code
+🎭 Interests: Artificial Intelligence, web development, systems
