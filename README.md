@@ -1,5 +1,5 @@
 # Hi! 👋 I'm AlexS
-I'm a second-year computer engineering student. I enjoy developing things for the love of it, especially math-related projects. I'm very curious and love learning new things. I survived Borland and now I'm in the Visual Studio Community.
+I'm a second-year computer engineering student. I enjoy developing things for the love of it, especially math-related projects. I'm very curious and love learning new things. I survived Borland and now use the Visual Studio Community 2026.
 # About me
 - 💻 I love programming and putting what I learn into practice.
 - 🏎 I'm a Formula 1 fan and passionate about everything related to engineering.
